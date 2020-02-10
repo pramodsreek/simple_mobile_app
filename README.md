@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 My first flutter app. Learned from Angela, London App Brewery
 
-<a href="./images/app_icon.jpg">**Icon of APP on the apps Screen**</a>
+![Icon of APP on the apps Screen](./images/app_icon.jpg)
 
-<a href="./images/app.jpg">**App Home Screen**</a>
+![App Home Screen](./images/app.jpg)
 
